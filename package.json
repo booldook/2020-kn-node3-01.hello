@@ -1,0 +1,26 @@
+{
+  "name": "01.hello",
+  "version": "1.0.0",
+  "description": "노드 시작 프로젝트",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booldook/2020-kn-node3-01.hello.git"
+  },
+  "keywords": [],
+  "author": "booldook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/booldook/2020-kn-node3-01.hello/issues"
+  },
+  "homepage": "https://github.com/booldook/2020-kn-node3-01.hello#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
