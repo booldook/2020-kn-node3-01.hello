@@ -4,6 +4,9 @@
   "description": "노드 시작 프로젝트",
   "main": "app.js",
   "scripts": {
+    "start": "supervisor 01.app",
+    "dev": "node 01.app",
+    "build": "pm2 01.app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

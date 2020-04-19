@@ -20,10 +20,23 @@ npm i moment
 npm i express
 ```
 
+## supervisor 설치
+```bash
+# supervisor 모듈을 global 옵션을 통해서 설치한다(한번만)
+# npm install --global supervisor
+npm i -g supervisor
+```
+
+
 ```js
 // 주석
 /* 블럭주석 */
 var a = 10;
 var b = 20;
 console.log(a+b);
+```
+
+## app.js 생성
+```
+
 ```
