@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/booldook/2020-kn-node3-01.hello#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0"
